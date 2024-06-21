@@ -1,17 +1,6 @@
 # dars1
+[Screencast from 21-06-24 17:07:04.webm](https://github.com/Iskandarrcode/HomeWork_21.06.2024/assets/153985172/15e2d3f8-632b-4a58-8135-2f7ae5824467)
+
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# HomeWork_21.06.2024
